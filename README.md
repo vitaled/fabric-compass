@@ -49,7 +49,7 @@ fabric-compass/
 
 ---
 
-## 📅 Conferences
+## Conferences
 
 | Date | Event | Location | Recap |
 |---|---|---|---|
